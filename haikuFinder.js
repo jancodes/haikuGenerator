@@ -4,6 +4,8 @@ var bookFile = readbookFile('./prideandprejudice.txt');
 //var bookFile = readbookFile('./test.txt');
 //text.txt used to confirm haikuFinder.js works
 //book takes a long time to complete, not many words match.
+
+//left console.log uncommented to help visualize function
 var findings = [];
 
 
