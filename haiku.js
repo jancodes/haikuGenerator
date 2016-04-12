@@ -29,4 +29,8 @@ formatData(cmudictFile);
 
 //console.log(dictionary);
 
+console.log(dictionary["5"][0]);
+console.log(dictionary["7"][2]);
+console.log(dictionary["5"][3]);
+
 module.exports.dictionary = dictionary;
